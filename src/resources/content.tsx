@@ -209,7 +209,7 @@ const about: About = {
             height: 9,
           },
           {
-            src: "/images/projects/project-03/Pepsi.jpg",
+            src: "/images/projects/project-03/Pepsi.JPG",
             alt: "Project image",
             width: 16,
             height: 9,
@@ -267,7 +267,7 @@ const about: About = {
         // optional: leave the array empty if you don't want to display images
         images: [
           {
-            src: "/images/og/py2.JPG",
+            src: "/images/og/py2.jpg",
             alt: "Project image",
             width: 16,
             height: 9,

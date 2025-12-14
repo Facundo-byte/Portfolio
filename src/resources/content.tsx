@@ -267,7 +267,7 @@ const about: About = {
         // optional: leave the array empty if you don't want to display images
         images: [
           {
-            src: "/images/og/py2.jpg",
+            src: "/images/og/Py2.JPG",
             alt: "Project image",
             width: 16,
             height: 9,
